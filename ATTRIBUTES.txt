@@ -1,0 +1,11 @@
+This model file (Phi-3.5-mini-instruct-Q4_K_M.gguf) is a quantized version of:
+
+Original model: microsoft/Phi-3.5-mini-instruct  
+Available at: https://huggingface.co/microsoft/Phi-3.5-mini-instruct
+
+Quantized and released by: bartowski  
+Quantization method: GGUF Q4_K_M  
+Original quantized model available at:  
+https://huggingface.co/bartowski/Phi-3.5-mini-instruct-GGUF
+
+License: MIT License
